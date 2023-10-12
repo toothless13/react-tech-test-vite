@@ -1,0 +1,37 @@
+.search-form {
+  display: flex;
+  justify-content: center;
+}
+
+.search-input {
+  width: 15rem;
+  border-radius: 11px;
+  font-size: 1.25rem;
+  padding: 0 10px;
+}
+
+.search-button {
+  letter-spacing: .1rem;
+  background-color: rgb(252, 61, 33);
+  color: white;
+  font-weight: 700;
+  font-size: 1.25rem;
+  border-radius: 11px;
+  margin-left: 1rem;
+  transition: background-color 0.2s,
+              color 0.2s;
+}
+
+.search-button:hover {
+  background-color: black;
+  color: rgb(252, 61, 33);
+  cursor: pointer;
+}
+
+/* Media Queries */
+
+@media only screen and (max-width: 450px) {
+  .search-input {
+    width: 10rem;
+  }
+}

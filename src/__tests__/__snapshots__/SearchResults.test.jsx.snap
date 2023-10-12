@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SearchResults renders correctly 1`] = `
+<DocumentFragment>
+  <img
+    alt="search result: 0"
+    class="search-result-image"
+    data-testid="search-result-image"
+    src="https://images.unsplash.com/photo-1522030299830-16b8d3d049fe?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80"
+  />
+  <img
+    alt="search result: 1"
+    class="search-result-image"
+    data-testid="search-result-image"
+    src="https://images.unsplash.com/photo-1522030299830-16b8d3d049fe?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80"
+  />
+</DocumentFragment>
+`;

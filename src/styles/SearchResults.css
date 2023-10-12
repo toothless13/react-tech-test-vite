@@ -1,0 +1,12 @@
+.search-result-image {
+  width: 500px;
+  padding: 1rem .5rem;
+  /* border: 5px solid rgb(252, 61, 33); */
+  border-radius: 25px;
+}
+
+@media only screen and (max-width: 550px) {
+  .search-result-image {
+    width: 90%;
+  }
+}
