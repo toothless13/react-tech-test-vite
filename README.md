@@ -8,7 +8,7 @@ I previously created this project using create-react-app, but I have done this o
 
 ## Deployed Site
 
-[React Tech Test](https://react-tech-test-mu.vercel.app/)
+[React Tech Test Vite](https://react-tech-test-vite.vercel.app/)
 
 ## Screenshots
 
